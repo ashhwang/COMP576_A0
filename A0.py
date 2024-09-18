@@ -1,0 +1,1 @@
+print('This is for COMP576 A0!')
